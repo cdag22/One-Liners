@@ -1,0 +1,1 @@
+FirstReverse = lambda s: s[::-1]
